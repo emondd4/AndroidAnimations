@@ -1,0 +1,2 @@
+rootProject.name = "ActivityTransitions"
+include ':app'
